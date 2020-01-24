@@ -1,0 +1,34 @@
+{
+  "name": "simple_photo_gallery",
+  "version": "1.0.0",
+  "description": "A simple gallery based on PHP. Using no database. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saif71/simple-photo-gallery.git"
+  },
+  "keywords": [
+    "php",
+    "photo",
+    "gallry",
+    "php",
+    "gallery",
+    "image",
+    "galary",
+    "no",
+    "mysql"
+  ],
+  "author": "Saif71",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saif71/simple-photo-gallery/issues"
+  },
+  "homepage": "https://github.com/saif71/simple-photo-gallery#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "lazyload": "^2.0.0-rc.2"
+  }
+}
