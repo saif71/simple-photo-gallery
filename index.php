@@ -9,8 +9,10 @@ $images = glob($dir . "*.{jpg,jpeg,gif,png,svg}", GLOB_BRACE); //add / remove an
   <head>
     <title>Salman Hossain Saif | App Icons Portfolios</title>
     <!-- cdnjs -->
-    <script src="node_modules/jquery/dist/jquery.min.js"></script>
-    <script src="node_modules/lazyload/lazyload.js"></script>
+    <!----script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/lazyload/lazyload.js"></script----->
+         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> 
+    <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.js"></script>
             
   </head>
   <body>
