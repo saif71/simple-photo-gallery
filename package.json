@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/saif71/simple-photo-gallery#readme",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lazyload": "^2.0.0-rc.2"
   }
 }
